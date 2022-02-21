@@ -1,0 +1,15 @@
+ID:
+Title:
+Project:
+STR:
+Environment:
+Component:
+Build: 
+Actual result: 
+Expected result: 
+Severity: 
+Priority: 
+Status: 
+Author:
+Sign to: 
+Attachments:
